@@ -1,0 +1,5 @@
+train: C:/Users/omhas/OneDrive/Documents/YOLO Project/1_Data_Preparation/data_images/train
+val: C:/Users/omhas/OneDrive/Documents/YOLO Project/1_Data_Preparation/data_images/test
+nc: 20
+names: ['person', 'chair', 'car', 'dog', 'bottle', 'cat', 'bird', 'pottedplant', 'sheep', 'boat', 
+        'aeroplane', 'tvmonitor', 'sofa', 'bicycle', 'horse', 'motorbike', 'diningtable', 'cow', 'train', 'bus']
